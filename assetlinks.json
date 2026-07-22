@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ruanfatel.twa",
+        "sha256_cert_fingerprints": ["EC:38:2F:88:B9:5E:24:4C:2F:59:54:1C:57:CA:32:12:12:DE:AA:8E:77:D1:BD:B5:1E:30:F4:10:B1:2F:A5:E9"]
+      }
+    }]
